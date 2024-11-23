@@ -2,12 +2,39 @@
 Welcome to my portfolio! Below are links to some of the projects that I have worked on :
 
 ## Projects
-1. [**Silly Cat Photos**](https://github.com/vysh0d/SillyCats)
+1. [**Task Manager**](https://github.com/vysh0d/Task-Manager)
+   A simple task management app that allows users to add and delete tasks for improved productivity.
+
+- **Features**:
+  - Add tasks using an input field and button.
+  - Delete tasks individually using a delete button.
+  - Simple and intuitive UI.
+
+- **Technologies Used**: HTML, CSS, JavaScript
+  
+---
+  
+2. [**Silly Cat Photos**](https://github.com/vysh0d/SillyCats)
    A simple website that displays cat photos with a responsive design.
-   Technologies: HTML, CSS.
-2. [**Calculator**](https://github.com/vysh0d/Calculator)
+   
+- **Features**:
+  - Displays a curated gallery of cat photos.
+  - Includes a "Contact Us" section for user messages or suggestions.
+  - Fully responsive design with a navigation bar.
+
+- **Technologies Used**: HTML, CSS
+
+---
+   
+3. [**Calculator**](https://github.com/vysh0d/Calculator)
    A web-based calculator that supports basic arithmetic, square roots, exponentials and expressions.
-   Technologies: HTML, CSS, JavaScript.
+
+- **Features**:
+  - Supports square roots, exponentials, and backspace functionality.
+  - Input is restricted to buttons for better accuracy.
+
+- **Technologies Used**: HTML, CSS, JavaScript
+
 
 ## Skills
 * Programming Languages: HTML, CSS, JavaScript, Python, C
