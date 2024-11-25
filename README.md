@@ -40,7 +40,7 @@ Welcome to my portfolio! Below are links to some of the projects that I have wor
 * Programming Languages: HTML, CSS, JavaScript, Python, C
 * Tools: DevC++, Ubuntu, Visual Studio Code
 * Problem-solving
-* Other: Search Engine Optimization (SEO), Responsive Web Design
+* Other: Digital Marketing, Responsive Web Design
 
 ## Currently Learning
 * GitHub (Version control, collaboration)
