@@ -37,13 +37,14 @@ Welcome to my portfolio! Below are links to some of the projects that I have wor
 
 
 ## Skills
-* Programming Languages: HTML, CSS, JavaScript, Python, C
+* Programming Languages: HTML, CSS, JavaScript, Python, C, Java
 * Tools: DevC++, Ubuntu, Visual Studio Code
-* Problem-solving
+* Creative thinking and Problem-solving
 * Other: Digital Marketing, Responsive Web Design
 
 ## Currently Learning
 * GitHub (Version control, collaboration)
+* Python Django 
 
 ## Personal Statement
 I am Vaishnavi, a student and found joy working with technologies like Python, c and web development tools to build projects that improve efficiency and simplify tasks. I am constantly learning and excited to grow my skills, particularly in areas like GitHub and collaborative development. My goal is to contribute to meaningful projects and continue learning through hands-on experience, including participating in hackathons and collaborating with other developers. 
